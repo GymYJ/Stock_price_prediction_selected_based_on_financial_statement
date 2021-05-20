@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.pythonPath": "C:\\Python39\\python.exe",
+    "python.languageServer": "Pylance"
+}
